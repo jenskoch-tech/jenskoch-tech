@@ -47,4 +47,5 @@ security learning exercises
 
 Links
 Website: www.j-koch.ch
-LinkedIn: linkedin.com/in/jenspkoch
+
+LinkedIn: www.linkedin.com/in/jenspkoch
