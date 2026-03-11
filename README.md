@@ -4,7 +4,7 @@ Director-level financial services professional with more than 20 years of experi
 My work focuses on the intersection of business transformation, cybersecurity governance, and operational resilience. I combine strategic leadership with practical exploration of emerging technologies such as AI and cybersecurity tooling.
 This GitHub space documents frameworks, experiments, and tools related to transformation, security, and technology in modern organizations.
 
-Professional Focus
+Professional Focus:
 Strategic Transformation & Change Leadership
 Cybersecurity Governance & Risk Management
 Operational Resilience
