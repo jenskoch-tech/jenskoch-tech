@@ -45,7 +45,9 @@ headache calculator
 automation scripts
 security learning exercises
 
-Links
-Website: www.j-koch.ch
-
-<a href="https://www.linkedin.com/in/jenspkoch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Links
+<div>
+  <a href="https://www.linkedin.com/in/jenspkoch/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.j-koch.ch"> <img src="https://img.shields.io/badge/-Website-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   
+</div>
