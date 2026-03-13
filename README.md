@@ -1,12 +1,12 @@
 Hello, I'm Jens
 
-Director-level financial services professional with more than 20 years of experience in transformation, internal audit, banking operations, and risk management across global financial institutions.
-My work focuses on the intersection of business transformation, cybersecurity governance, and operational resilience. I combine strategic leadership with practical exploration of emerging technologies such as AI and cybersecurity tooling.
+A financial services professional with more than 20 years of experience in transformation, internal audit, banking operations, governance and risk management across global financial institutions.
+My work focuses on the intersection of business transformation, cybersecurity governance, and operational resilience. I combine strategic leadership with practical exploration of emerging technologies such as AI.
 This GitHub space documents frameworks, experiments, and tools related to transformation, security, and technology in modern organizations.
 
 Professional Focus:
 Strategic Transformation & Change Leadership
-Cybersecurity Governance & Risk Management
+Governance & Risk Management
 Operational Resilience
 Third-Party Risk Management
 AI Applications in Business Processes
